@@ -1,0 +1,30 @@
+{
+  "name": "api-conferencias",
+  "version": "0.0.1",
+  "description": "Ejemplo de creacion de una API",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/alphyon/apiconferencia"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Jose Antonio Henriquez Chavarria",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alphyon/apiconferencia/issues"
+  },
+  "homepage": "https://github.com/alphyon/apiconferencia",
+  "dependencies": {
+    "body-parser": "^1.0.1",
+    "express": "^4.0.0",
+    "method-override": "^1.0.0",
+    "mongoose": "^3.6.13",
+    "morgan": "^1.0.0",
+    "nodemon": "^1.2.0"
+  }
+}
